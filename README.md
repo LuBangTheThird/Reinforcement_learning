@@ -1,2 +1,2 @@
 # Reinforcement_learning
-Reinforcement_learning_Code_for_ZhaoShiyu's book
+赵老师的强化学习的数学方法中的例子的一些代码
